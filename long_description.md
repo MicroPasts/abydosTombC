@@ -1,5 +1,5 @@
 This application enables the transcription of archive cards from the Egypt Exploration Society (EES) Abydos Tomb
-cards Cemetery C archive. Images will be drawn from the EES Flickr feed and redisplayed in the browser window. The
+cards Cemetery A archive. Images will be drawn from the EES Flickr feed and redisplayed in the browser window. The
 EES would like the following information to be transcribed for them to create a searchable archive for their records. 
 
 These fields are:
@@ -21,4 +21,4 @@ This application is on behalf of the Egypt Exploration Society.
 ## Find the code on GitHub:
 
 [![](https://micropasts-other.s3.amazonaws.com/other/github_logo.png)]
-(https://github.com/MicroPasts/abydosTombC)
+(https://github.com/MicroPasts/abydosTombA)
